@@ -8,6 +8,7 @@ Here the final result:
 <img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3c71cc99d2fc1c12a3d3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210908%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20210908T131236Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=84e4be49002003bf0a2d8772d35faaffd19563c7943104ecd7a6f66d9f2deb28" alt="" style="">
 This webpage has been designed by Nicolas Philippot, UI/UX designer. 
 You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/623/Archive.zip)
+
 ### Requirements
   + You have to use Bootstrap
   + Your `styles.css` must be as small as you can - **you must use as much as you can Bootstrap classes**
