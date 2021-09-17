@@ -9,14 +9,23 @@ body {
     height: 1093px;
 }
 
+.hero-section-pricing {
+    background: url("images/pic_2.jpg") no-repeat;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    /* height: 1093px; */
+}
+
+.courses-section {
+    background: url("images/pic_3.jpg") no-repeat;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    /* height: 1093px; */
+}
 .hero-section-content {
     margin-top: 10em;
 }
 
-/* .logo-container {
-    width: 169px;
-    height: 30px;
-} */
 
 /* Header Section
     ==================*/
@@ -39,6 +48,9 @@ body {
     padding-left: 18px
 }
 
+.font-smileschool {
+    font: Coiny;
+}
 .pro-section{
     margin-top: 5em;
     margin-bottom: 3em;
@@ -65,6 +77,46 @@ body {
     width: 150px;
     height: 150px;
 }
+
+.hero-quote {
+    height: 70px;
+    font-family: Coiny;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 35px;
+    text-align: center;
+    width: 480px;
+
+}
+
+/* Carousel Section
+==================*/
+
+.carousel-section {
+    background-color: #C271FF;
+}
+
+.carousel-img {
+    width: 160px;
+    height: 160px;
+}
+
+.arrow-icon {
+    position: absolute;
+    height: 52.04px;
+    top: 53px;
+}
+
+.carousel-purple {
+    color: #C271FF;
+}
+
+.video-card {
+    width: 255px;
+    height: 400px;
+}
+
 /* Footer Section
 ==================*/
 
